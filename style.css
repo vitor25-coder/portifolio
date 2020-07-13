@@ -549,9 +549,8 @@ header {
 }
 
 .sessao-orcamento label{
-  font-family: var(--font-secundary);
+  font-family: var(--font-action);
   font-size: 1.5rem;
-  font-weight: bold;
 }
 
 .sessao-orcamento input[type="number"]{
